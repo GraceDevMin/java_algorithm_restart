@@ -10,10 +10,9 @@ public class Q17 {
                 System.out.print(" ");
             }
             for(int j=1; j<=2*i-1; j++) {
-                System.out.print(i);
+                System.out.print(i%10);
             }
-            System.out.println(
-            );
+            System.out.println();
         }
     }
 
